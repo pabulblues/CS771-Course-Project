@@ -5,9 +5,9 @@ This repository contains the complete project submission along with a separate f
 
 ## Repository Structure
 project-folder/
-│── main-submission/     # Final project submission with all necessary files
-│── personal-experiments/ # Personal trial work, experimental scripts, and additional tests
-│── README.md            # Project documentation (this file)
+│── main-submission/      Final project submission with all necessary files
+│── personal-experiments/  Personal trial work, experimental scripts, and additional tests
+│── README.md             Project documentation (this file)
 
 ### 1. `CS771-Mini-Project/`
 This folder contains the finalized project submission, including:
