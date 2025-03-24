@@ -23,7 +23,7 @@ This folder contains:
 - Notes on different approaches tested during development
 
 ## Original GitHub Submission + Team members
-The original project submission is available at: [CS771-Mini-Project](https://github.com/A-Rush-R/CS771-Mini-Project.git)
+The original project submission is available at: https://github.com/A-Rush-R/CS771-Mini-Project.git
 
 | Name              | Roll Number |
 |------------------|------------|
