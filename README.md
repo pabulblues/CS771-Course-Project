@@ -22,6 +22,20 @@ This folder contains:
 - Trial implementations
 - Notes on different approaches tested during development
 
+## Original GitHub Submission + Team members
+The original project submission is available at: [CS771-Mini-Project](https://github.com/A-Rush-R/CS771-Mini-Project.git)
+
+| Name              | Roll Number |
+|------------------|------------|
+| Anushka Singh   | 220188      |
+| Arush Upadhyaya | 220213      |
+| Aujasvit Datta  | 220254      |
+| Pahal Dhruvin Patel | 220742  |
+| Pranav Agrawal  | 220791      |
+
+
+
 ## How to Use
 1. **For the final project**, navigate to `CS771-Mini-Project/` and follow the instructions provided within that folder.
 2. **For additional insights and experiments**, check the `personal-experiments/` folder.
+
