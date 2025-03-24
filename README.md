@@ -4,7 +4,7 @@
 This repository contains the complete project submission along with a separate folder for personal experiments and trial work.
 
 ## Repository Structure
-project-folder/
+project-folder/  
 │── main-submission/      Final project submission with all necessary files  
 │── personal-experiments/  Personal trial work, experimental scripts, and additional tests  
 │── README.md             Project documentation (this file)  
